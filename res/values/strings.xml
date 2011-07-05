@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chatman Soundboard</string>
+    <string name="themePrompt">Select Theme</string>
+    <string-array name="soundNames">
+        <item>CHATMAN</item>
+        <item>DOTA</item>
+        <item>GHOST NAPPA</item>
+        <item>GO SNAPPER</item>
+    </string-array>
+    <string-array name="soundFiles">
+    	<item>chatman.mp3</item>
+    	<item>dota.mp3</item>
+    	<item>ghostnappa.mp3</item>
+    	<item>ghostnappa.mp3</item>
+    </string-array>
+    <string-array name="themes">
+    	<item>YouTube</item>
+    	<item>Mensly</item>
+    </string-array>
+</resources>
