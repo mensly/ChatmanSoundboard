@@ -15,7 +15,10 @@
     	<item>ghostnappa.mp3</item>
     </string-array>
     <string-array name="themes">
+    	<item>Chatman</item>
     	<item>YouTube</item>
     	<item>Mensly</item>
+    	<item>Jason</item>
+    	<item>Group</item>
     </string-array>
 </resources>
